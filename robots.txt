@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pefiex.github.io/CiN/sitemap.CiN.gz
